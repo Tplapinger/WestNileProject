@@ -1,0 +1,1006 @@
+Disease,YearText,Year,StateOrCounty,IL,Race,Ethnicity,Gender,AgeGroupText,AgeGroup,Count
+West Nile Virus,Year,2011,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2011,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,S,IL,Multiple Races,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,S,IL,Other,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2011,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2011,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,3
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,4
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2011,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,7
+West Nile Virus,Year,2011,S,IL,White,UnkwnNotClassified,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,S,IL,Other,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,Other,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,S,IL,Other,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,S,IL,Other,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,S,IL,Other,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,Hispanic or Latino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,15-19 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,30-34 Years,4
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,3
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,45-49 Years,6
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,7
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,6
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,5-9 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,7
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,20-24 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,25-29 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,8
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,12
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,14
+West Nile Virus,Year,2012,S,IL,White,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,S,IL,White,Hispanic or Latino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,S,IL,White,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,S,IL,White,Hispanic or Latino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,S,IL,White,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,15-19 Years,6
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,20-24 Years,2
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,25-29 Years,2
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,30-34 Years,2
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,35-39 Years,6
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,40-44 Years,5
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,7
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,50-54 Years,3
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,6
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,7
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,19
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,40-44 Years,4
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,45-49 Years,4
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,50-54 Years,5
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,55-59 Years,8
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,8
+West Nile Virus,Year,2012,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,24
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,3
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,5
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,60-64 Years,3
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Female,CD5yr,65 + Years,5
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,3
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,4
+West Nile Virus,Year,2012,S,IL,White,UnkwnNotClassified,Male,CD5yr,65 + Years,10
+West Nile Virus,Year,2005,C,Cook,Asian,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Cook,Asian,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Cook,Other,Hispanic or Latino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Cook,Other,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,C,Cook,Other,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Cook,Other,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,S,IL,Asian,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,Asian,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,S,IL,Asian,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,S,IL,Asian,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,Asian,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,S,IL,Other,Hispanic or Latino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,S,IL,Other,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,S,IL,Other,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,Other,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,Other,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,Hispanic or Latino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,NotHispNotLatino,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,25-29 Years,2
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,4
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2005,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2005,S,IL,White,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,S,IL,White,Hispanic or Latino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,S,IL,White,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,10-14 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,20-24 Years,3
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,30-34 Years,2
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,35-39 Years,5
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,40-44 Years,5
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,12
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,50-54 Years,14
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,4
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,25
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,25-29 Years,2
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,45-49 Years,6
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,50-54 Years,8
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,55-59 Years,5
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,9
+West Nile Virus,Year,2005,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,27
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,3
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,6
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,50-54 Years,5
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,5
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Female,CD5yr,65 + Years,13
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,3
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,3
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,3
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,S,IL,White,UnkwnNotClassified,Male,CD5yr,65 + Years,9
+West Nile Virus,Year,2006,S,IL,Asian,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,S,IL,Asian,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,Asian,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,Asian,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,Asian,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,10-14 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,30-34 Years,2
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,4
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,S,IL,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,Other,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,S,IL,Other,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,Other,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,Other,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,S,IL,Other,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,S,IL,Other,UnkwnNotClassified,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,5
+West Nile Virus,Year,2006,S,IL,White,Hispanic or Latino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,S,IL,White,Hispanic or Latino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2006,S,IL,White,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,S,IL,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,S,IL,White,Hispanic or Latino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,15-19 Years,2
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,30-34 Years,6
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,35-39 Years,4
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,40-44 Years,7
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,9
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,50-54 Years,11
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,4
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,6
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,20
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,0-4 Years,1
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,25-29 Years,2
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,30-34 Years,5
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,35-39 Years,5
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,40-44 Years,8
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,45-49 Years,5
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,50-54 Years,11
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,55-59 Years,6
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,6
+West Nile Virus,Year,2006,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,14
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,4
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,3
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,S,IL,White,UnkwnNotClassified,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2007,S,IL,Asian,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,S,IL,Asian,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,S,IL,Other,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,S,IL,Other,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2007,S,IL,Unknown,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,S,IL,White,Hispanic or Latino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,S,IL,White,Hispanic or Latino,Male,CD5yr,0-4 Years,1
+West Nile Virus,Year,2007,S,IL,White,Hispanic or Latino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,20-24 Years,2
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,35-39 Years,2
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,40-44 Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,50-54 Years,7
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,25-29 Years,2
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,30-34 Years,4
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,45-49 Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,55-59 Years,3
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,6
+West Nile Virus,Year,2007,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,15
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,2
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,S,IL,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,S,IL,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2008,S,IL,Other,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2008,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2008,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2008,S,IL,White,Hispanic or Latino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2008,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,3
+West Nile Virus,Year,2008,S,IL,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2009,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2009,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2009,S,IL,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2009,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2010,S,IL,Asian,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2010,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2010,S,IL,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2010,S,IL,Other,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,S,IL,Other,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2010,S,IL,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2010,S,IL,Unknown,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,S,IL,White,Hispanic or Latino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,S,IL,White,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,S,IL,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,S,IL,White,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,45-49 Years,3
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Female,CD5yr,65 + Years,7
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2010,S,IL,White,NotHispNotLatino,Male,CD5yr,65 + Years,15
+West Nile Virus,Year,2010,S,IL,White,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2010,S,IL,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2010,S,IL,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2010,S,IL,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2010,S,IL,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,S,IL,Asian,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2011,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2011,S,IL,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,White,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,10-14 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,35-39 Years,4
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,40-44 Years,3
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,10
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,50-54 Years,8
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,4
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,15
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,4
+West Nile Virus,Year,2005,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,12
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,4
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Female,CD5yr,65 + Years,11
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Cook,White,UnkwnNotClassified,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2005,C,Dupage,Asian,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Dupage,Unknown,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2005,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,3
+West Nile Virus,Year,2005,C,Dupage,White,Hispanic or Latino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Female,CD5yr,50-54 Years,4
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2005,C,Dupage,White,NotHispNotLatino,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,50-54 Years,3
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Kane,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Kane,Unknown,Hispanic or Latino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Kane,Unknown,Hispanic or Latino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Kane,Unknown,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Kane,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Kane,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Kane,White,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Kane,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Kane,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Kankakee,Asian,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Kankakee,White,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Kendall,Asian,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Kendall,Other,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Kendall,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Lake,Unknown,Hispanic or Latino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2005,C,Lake,White,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Lake,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Lake,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Lake,White,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Lake,White,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Lake,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Lake,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Lake,White,UnkwnNotClassified,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,Lake,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Lasalle,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Mclean,White,NotHispNotLatino,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2005,C,Mclean,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Mclean,White,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2005,C,Peoria,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Peoria,Unknown,UnkwnNotClassified,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,Peoria,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2005,C,Peoria,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Peoria,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Peoria,White,UnkwnNotClassified,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2005,C,Rock Island,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Rock Island,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Sangamon,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,St Clair,Unknown,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2005,C,St Clair,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Will,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Winnebago,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Winnebago,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,Asian,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,C,Cook,Asian,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,10-14 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,Other,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Cook,Other,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,Other,UnkwnNotClassified,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,C,Cook,Unknown,Hispanic or Latino,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2006,C,Cook,Unknown,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,White,Hispanic or Latino,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2006,C,Cook,White,Hispanic or Latino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,35-39 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,4
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,13
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,25-29 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,40-44 Years,4
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,50-54 Years,6
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2006,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,4
+West Nile Virus,Year,2006,C,Cook,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,3
+West Nile Virus,Year,2006,C,Cook,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Cook,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Cook,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Cook,White,UnkwnNotClassified,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,C,Dekalb,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Dupage,Asian,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Dupage,Asian,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Dupage,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2006,C,Dupage,White,Hispanic or Latino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,40-44 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,40-44 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,NotHispNotLatino,Male,CD5yr,65 + Years,4
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2006,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Kane,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,C,Kane,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Kane,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Kane,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Kankakee,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Kendall,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Kendall,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Female,CD5yr,40-44 Years,2
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Lake,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Lake,White,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Lake,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Lake,White,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Lake,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Lasalle,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Madison,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,C,Madison,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Mclean,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Mclean,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Mclean,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,Rock Island,White,UnkwnNotClassified,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2006,C,Sangamon,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Sangamon,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Sangamon,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Sangamon,White,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2006,C,St Clair,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2006,C,St Clair,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Tazewell,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Will,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Will,Other,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Will,Other,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Will,White,Hispanic or Latino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Will,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,30-34 Years,2
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,45-49 Years,2
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Will,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Cook,Asian,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Cook,Other,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Cook,Asian,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Cook,White,Hispanic or Latino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Cook,White,Hispanic or Latino,Male,CD5yr,0-4 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Female,CD5yr,50-54 Years,4
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2007,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2007,C,Cook,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Cook,White,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Cook,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Cook,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Dupage,Asian,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,Hispanic or Latino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Kane,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Kane,Other,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,C,Kane,Unknown,Hispanic or Latino,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2007,C,Kane,Unknown,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Female,CD5yr,40-44 Years,2
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,C,Kane,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Lake,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Lake,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Lake,White,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2007,C,Lake,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Lasalle,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,C,Lasalle,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Macon,White,UnkwnNotClassified,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,C,Madison,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Madison,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2007,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2007,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,Mchenry,White,UnkwnNotClassified,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Mclean,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Rock Island,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Sangamon,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,St Clair,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,St Clair,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2007,C,St Clair,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Tazewell,White,NotHispNotLatino,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2007,C,Will,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Will,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2007,C,Will,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Winnebago,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Winnebago,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2008,C,Cook,White,Hispanic or Latino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2008,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2008,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2008,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,C,Cook,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2008,C,Dupage,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2008,C,Kane,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2008,C,Kane,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,C,Kane,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2008,C,Macon,Unknown,UnkwnNotClassified,Female,CD5yr,20-24 Years,1
+West Nile Virus,Year,2009,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2009,C,St Clair,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2009,C,St Clair,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2009,C,Tazewell,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,C,Champaign,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2010,C,Cook,Asian,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2010,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2010,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2010,C,Cook,Other,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Cook,Other,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2010,C,Cook,White,Hispanic or Latino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,C,Cook,White,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,2
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,4
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,5
+West Nile Virus,Year,2010,C,Cook,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Cook,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Cook,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,C,Dupage,White,Hispanic or Latino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2010,C,Dupage,White,NotHispNotLatino,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2010,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Kane,White,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Kane,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Kane,White,NotHispNotLatino,Male,CD5yr,65 + Years,3
+West Nile Virus,Year,2010,C,Kendall,Unknown,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Kendall,White,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2010,C,Lake,White,Hispanic or Latino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2010,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2010,C,Peoria,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2010,C,Tazewell,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2010,C,Will,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2010,C,Will,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2011,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2011,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2011,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2011,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Cook,Other,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2011,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2011,C,Dupage,Multiple Races,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Dupage,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2011,C,Kane,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2011,C,Mchenry,White,UnkwnNotClassified,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2011,C,Rock Island,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Will,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Winnebago,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,BlackAfricanAmer,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Other,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,Other,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Other,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,Hispanic or Latino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,30-34 Years,3
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,45-49 Years,3
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,4
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,5-9 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,4
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,20-24 Years,2
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,30-34 Years,2
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,35-39 Years,2
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,3
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,8
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,7
+West Nile Virus,Year,2012,C,Cook,White,Hispanic or Latino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Cook,White,Hispanic or Latino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,White,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,15-19 Years,6
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,20-24 Years,2
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,35-39 Years,3
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,40-44 Years,4
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,45-49 Years,5
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,55-59 Years,3
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,60-64 Years,3
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Female,CD5yr,65 + Years,15
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,20-24 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,40-44 Years,2
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,50-54 Years,2
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,55-59 Years,3
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,C,Cook,White,NotHispNotLatino,Male,CD5yr,65 + Years,14
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,3
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Female,CD5yr,65 + Years,3
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,3
+West Nile Virus,Year,2012,C,Cook,White,UnkwnNotClassified,Male,CD5yr,65 + Years,6
+West Nile Virus,Year,2012,C,Dekalb,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,45-49 Years,2
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,50-54 Years,3
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,4
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Dupage,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,3
+West Nile Virus,Year,2012,C,Dupage,White,Hispanic or Latino,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,35-39 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,45-49 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,50-54 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,55-59 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,15-19 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,40-44 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,45-49 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,NotHispNotLatino,Male,CD5yr,65 + Years,4
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,35-39 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Dupage,White,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Kane,Other,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Kane,Unknown,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Kane,Unknown,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2012,C,Kane,Unknown,UnkwnNotClassified,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Kane,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Kane,Unknown,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Kane,White,Hispanic or Latino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Kane,White,Hispanic or Latino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Kane,White,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Kane,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Kane,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Kane,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Kane,White,UnkwnNotClassified,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Kankakee,BlackAfricanAmer,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Kankakee,White,NotHispNotLatino,Female,CD5yr,25-29 Years,1
+West Nile Virus,Year,2012,C,Kankakee,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Lake,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Lake,Unknown,UnkwnNotClassified,Male,CD5yr,65 + Years,3
+West Nile Virus,Year,2012,C,Lake,White,NotHispNotLatino,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Lake,White,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Lake,White,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Mchenry,Unknown,UnkwnNotClassified,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Mchenry,White,NotHispNotLatino,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Mchenry,White,NotHispNotLatino,Male,CD5yr,60-64 Years,2
+West Nile Virus,Year,2012,C,Mchenry,White,UnkwnNotClassified,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Mclean,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Peoria,BlackAfricanAmer,UnkwnNotClassified,Female,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Peoria,Unknown,NotHispNotLatino,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2012,C,Peoria,White,NotHispNotLatino,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Sangamon,White,NotHispNotLatino,Female,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Sangamon,White,NotHispNotLatino,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,St Clair,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Will,Unknown,UnkwnNotClassified,Female,CD5yr,40-44 Years,1
+West Nile Virus,Year,2012,C,Will,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Will,Unknown,UnkwnNotClassified,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Will,White,NotHispNotLatino,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Will,White,NotHispNotLatino,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Will,White,NotHispNotLatino,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2012,C,Will,White,NotHispNotLatino,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Will,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Will,White,UnkwnNotClassified,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2012,C,Winnebago,Unknown,NotHispNotLatino,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2012,C,Winnebago,Unknown,UnkwnNotClassified,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2012,C,Winnebago,White,UnkwnNotClassified,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2005,C,Carroll,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Christian,na,na,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Morgan,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2005,C,Warren,na,na,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Adams,na,na,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Bond,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Christian,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Crawford,na,na,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2006,C,Crawford,na,na,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2006,C,Effingham,na,na,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2006,C,Effingham,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Franklin,na,na,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Franklin,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Henry,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Jefferson,na,na,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2006,C,Jefferson,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Jodaviess,na,na,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Macoupin,na,na,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Macoupin,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Marion,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Monroe,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Morgan,na,na,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2006,C,Ogle,na,na,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Richland,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2006,C,Stephenson,na,na,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Vermilion,na,na,Female,CD5yr,50-54 Years,1
+West Nile Virus,Year,2006,C,Woodford,na,na,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2006,C,Woodford,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Boone,na,na,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Boone,na,na,Male,CD5yr,45-49 Years,1
+West Nile Virus,Year,2007,C,Bureau,na,na,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,C,Clinton,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Henry,na,na,Male,CD5yr,40-44 Years,1
+West Nile Virus,Year,2007,C,Ogle,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Pike,na,na,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Saline,na,na,Female,CD5yr,15-19 Years,1
+West Nile Virus,Year,2007,C,Saline,na,na,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Saline,na,na,Female,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Warren,na,na,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2007,C,Whiteside,na,na,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2007,C,Williamson,na,na,Male,CD5yr,10-14 Years,1
+West Nile Virus,Year,2007,C,Woodford,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2007,C,Woodford,na,na,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2008,C,Boone,na,na,Male,CD5yr,65 + Years,2
+West Nile Virus,Year,2008,C,Montgomery,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2008,C,Stephenson,na,na,Female,CD5yr,60-64 Years,1
+West Nile Virus,Year,2008,C,Whiteside,na,na,Male,CD5yr,50-54 Years,1
+West Nile Virus,Year,2009,C,Williamson,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Coles,na,na,Male,CD5yr,5-9 Years,1
+West Nile Virus,Year,2011,C,Franklin,na,na,Male,CD5yr,35-39 Years,1
+West Nile Virus,Year,2011,C,Marion,na,na,Female,CD5yr,35-39 Years,1
+West Nile Virus,Year,2011,C,Marion,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2011,C,Marion,na,na,Male,CD5yr,30-34 Years,1
+West Nile Virus,Year,2012,C,Bond,na,na,Female,CD5yr,45-49 Years,1
+West Nile Virus,Year,2012,C,Bond,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Crawford,na,na,Female,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Henry,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Jackson,na,na,Male,CD5yr,60-64 Years,1
+West Nile Virus,Year,2012,C,Jodaviess,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Macoupin,na,na,Male,CD5yr,65 + Years,1
+West Nile Virus,Year,2012,C,Williamson,na,na,Male,CD5yr,55-59 Years,1
+West Nile Virus,Year,2005,C,Marshall,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2005,C,Schuyler,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2006,C,Brown,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2006,C,Clay,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2006,C,Ford,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2006,C,Moultrie,na,na,na,CD5yr,na,3
+West Nile Virus,Year,2007,C,Gallatin,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2007,C,Hardin,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2007,C,Wabash,na,na,na,CD5yr,na,1
+West Nile Virus,Year,2008,C,Marshall,na,na,na,CD5yr,na,1
